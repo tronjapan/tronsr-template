@@ -1,21 +1,35 @@
 ## Kenji Ito
 
-1984年生まれ。静岡県出身。慶應義塾大学大学院経営管理研究科ヘルスケアポリシー&マネジメント集中コース修了。一般社団法人Fintech協会会員、国内企業仮暗号貨事業顧問、暗号通貨取引所アドバイザー、暗号通貨投資アナリスト。
-テレビ東京WBS出演、テレビ東京モーニングサテライト出演、各種雑誌ラジオ取材出演、日本最大級の暗号通貨情報サイト「Coin-Otaku」CEO NHKおはよう日本出演。
+Ito Kenji was born in 1984 Shizuoka, Japan. Keio University Graduate School of Business Administration Graduate Healthcare Policy & Management Intensive course completed. Members of the Fintech Association of General Association. Domestic cryptocurrency consultant advisor, cryptocurrency exchange advisor, Cryptocurrency investment analyst.
+
+He is the CEO of biggest web media in Japan blockchain industry called “Coin OTAKU”, and has 4.8k follower on twitter. 
+
+Twitter account: https://twitter.com/it0ken
 
 ## Tetsuya Nagaoka
 
-仮想通貨投資及び仮想通貨ビジネスで機密情報を極秘セミナー展開。
-海外裏ルートICO前縁故枠や上場コイン含め多種投資成功し、雑誌等多数掲載。
-Yahoo!ニュース等でフ?ラック企業との戦い方、社会問題解決の記事展開。
-人の真似をしない独自のフ?ロシ?ェクトで関わる人々を短期で成功させている。
-業界ではお客様第一、仲間第一、信用第一と評されている。
-短期成功可能な独自マーケッターノウハウ保有者。
+He is a expert of cryptocurrency investment and cryptocurrency business. Various investments succeeded, including numerous magazines etc, including overseas back route ICO pre-merger quota and listing coins.
+
+In this industry he has rated as customer first, company first and most trustable.   
+
+Nagaoka Tetsuya who has 10.3k follower on twitter
+
+https://twitter.com/tetsuyanagaoka
 
 ## Mariko Kokoro
 
-2017年より仮想通貨投資を始め、国内外の仮想通貨カンファレンスやミートアップに参加し最新の仮想通貨情報をSNSを通じて発信している。
-また仮想通貨女子としてテレビや雑誌など各種メディアから取材を受ける。
+Kouchi Mariko is a popular blogger in cryptocurrency field and blockchain industry.
+Started virtual currency investment in 2017, participate in domestic and overseas virtual currency conferences and meet-ups and send the latest virtual currency information through SNS.
+
+Twitter account: https://twitter.com/cryptojpgirl
+
+Line account: @cryptomariko 港区仮想通貨女子Marikoのウラ話
 
 ## Tomoko Nakamura
 
+ * CairNet Global business partner 
+ * WBO Invest Bank VP
+ * Deputy Director of WBO News Media
+ * Former guanche.com co-founder
+
+Once worked for the largest domestic trade group in Japan and has managed over 3 billion.
