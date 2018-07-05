@@ -1,3 +1,10 @@
+#### Type
+Cloud - AWS
+
+#### Location
+Tokyo
+
+#### Info
 Currently
 
  * CPU : 8 cores
@@ -13,3 +20,4 @@ Starting from mid of August
  * RAM : 1T
  * SSD : 1T (EBS)
  * Network : 25Gbps
+
