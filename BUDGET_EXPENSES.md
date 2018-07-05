@@ -1,6 +1,11 @@
-70% income will be using on community support. 
+2018 Expenditure plan
 
- * 30% Server maintenance 
- * 30% Meet up, event and holding hackathon
- * 25% Online and offline CM promotion
- * 15% Mobility fund
+20% Fixed expense(office rental fee, public expense, hard device, employee salary, etc)
+
+20% Server maintenance
+
+25% Meet up, event and holding hackathon
+
+25% Online and offline CM promotion
+
+10% Mobility fund
