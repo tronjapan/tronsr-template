@@ -16,7 +16,7 @@ Nagaoka Tetsuya who has 10.3k follower on twitter
 
 https://twitter.com/tetsuyanagaoka
 
-## Mariko Kokoro
+## Mariko Kouchi
 
 Kouchi Mariko is a popular blogger in cryptocurrency field and blockchain industry.
 Started virtual currency investment in 2017, participate in domestic and overseas virtual currency conferences and meet-ups and send the latest virtual currency information through SNS.
